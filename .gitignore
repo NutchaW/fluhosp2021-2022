@@ -131,3 +131,5 @@ dmypy.json
 # large files
 fluhosp_dat.csv
 .Rproj.user
+.DS_Store
+.Rhistory
